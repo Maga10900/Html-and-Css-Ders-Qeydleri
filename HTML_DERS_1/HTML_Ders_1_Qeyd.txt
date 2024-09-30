@@ -1,0 +1,40 @@
+H Tag => Basliq demekdi
+H taglari H1-H6 araliqi olur. Bunlar sizelere gore deyisir.
+
+P Tag => Orta ve boyuk metinler ucundur.
+p ile yazilir
+
+HR Tag => Uzun xett cekir
+
+BR Tag => Metni 1 setir asaqi salir
+
+
+EM Tag => italic formada yazir. Korlar ucun sesli sekilde oxunanda ferq olur
+I Tag => italic formada verir.
+
+Strong Tag => Bold.Program terefinden oxunanda bilinirki lazimli bir yerdi
+B Tag => Bold. Sadece dizayn ucundur.
+
+UL Tag => Siyahi tagidir. UnOrdered list demekdir.
+LI tag => siyahi elementi yaradmaq ucundur. List Item demekdir.
+
+OL Tag => Siyahi tagidir. Ordered List demekdir. Sirali olaraq bize gosterir
+LI tag => siyahi elementi yaradmaq ucundur. List Item demekdir.
+
+A Tag => Link Tagidir. Eger biz her hansisa linke kecid elemek isteyirikse a taginden istifade edirik
+
+IMG Tag => Sekil yerlestirmek ucundur. scr atributuna sekilin pathini veririk. alt atributuna her hansisa yazi veririk sekil gorsenmedikde o yazi gorsenir.
+img-nin icerisine width ve height vere bilirik
+
+SPAN Tag => icersinde xirda seyler ve ya iconlar olur. Contente gore yer tutur
+
+DIV Tag => bir nece elementi qruplasdirmaq ucundur. 
+
+Block => Taglerdir hansiki butun setri tuturlar
+Inline => Taglerdir hansiki sadece simvol qeder yer tuturlur
+
+Button Tag => inline tagdir. contenti var.
+
+CODE Tag => sadece stili deyisdirir.
+CITE Tag => italic style. sadece stili deyisir.
+
